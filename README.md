@@ -73,7 +73,6 @@
     <strong>👋 Mình là Huỳnh Kim Khánh, hãy ghé thăm và theo dõi mình nhé 👋</strong>
   </a>
 </p>
-<p><strong>☝ Mình sinh ra và lớn lên ở Hà Tĩnh, hiện đang học lớp 12A, yêu thích công nghệ và lập trình, đồng thời đam mê các hoạt động vui chơi và giải trí. Đây là trang giới thiệu về bản thân và các dự án cá nhân của mình. </strong></p>
+<p><strong>☝ Mình sinh ra và lớn lên ở Bến Tre, hiện đang học lớp 12A, yêu thích công nghệ và lập trình, đồng thời đam mê các hoạt động vui chơi và giải trí. Đây là trang giới thiệu về bản thân và các dự án cá nhân của mình. </strong></p>
 <p><strong>✌ Mình tạo trang này để chia sẻ đam mê công nghệ, học tập và các sở thích cá nhân. Mọi người có thể ghé qua các mạng xã hội để góp ý và kết nối với mình. </strong></p>
-<p>
-<p><strong>🤟 Đã có bao nhiêu người ghé thăm: <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNguyenDucQuan12%2FNguyenDucQuan12"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNguyenDucQuan12%2FNguyenDucQuan12&label=Kh%C3%A1ch%20tham%20quan&labelColor=%2337d67a&countColor=%23ba68c8&style=plastic" /></a></strong
+src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNguyenDucQuan12%2FNguyenDucQuan12&label=Kh%C3%A1ch%20tham%20quan&labelColor=%2337d67a&countColor=%23ba68c8&style=plastic" /></a></strong
