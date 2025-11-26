@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/daisubinta/Nhom4tin12anh.github.io/main/golden-retriever-tongue-out.jpg" width="1200" alt="Huỳnh Kim Khánh" />
 </a>
 
-<h2 align="center">📘 Technologies and Tools 🖥</h2>
+<h2 align="center">📘 Những gì tớ thích 🖥</h2>
 <br>
 <!-- Badges con gái thích -->
 <span><img src="https://img.shields.io/badge/Mỹ%20phẩm-FF69B4?logo=beauty&logoColor=ffffff" alt="Mỹ phẩm" title="Mỹ phẩm" height="25" /></span>
@@ -22,16 +22,33 @@
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
-<div align=center>
-  <a href="#" title="HuynhKimKhanh">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDucQuan12&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<div align="center">
+  <a href="#" title="Mỹ phẩm yêu thích của mình">
+    <img width="150" align="center" src="https://img.shields.io/badge/Mỹ%20phẩm-FF69B4?logo=beauty&logoColor=ffffff" />
   </a>
-  <a href="#" title="HuynhKimKhanh">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=NguyenDucQuan12&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
+  &nbsp;
+  <a href="#" title="Học tập và khám phá kiến thức mới">
+    <img width="150" align="center" src="https://img.shields.io/badge/Học%20tập-8A2BE2?logo=bookstack&logoColor=ffffff" />
+  </a>
+  &nbsp;
+  <a href="#" title="Đọc sách yêu thích">
+    <img width="150" align="center" src="https://img.shields.io/badge/Sách-F4A460?logo=book&logoColor=ffffff" />
+  </a>
+  &nbsp;
+  <a href="#" title="Thời trang và phong cách cá nhân">
+    <img width="150" align="center" src="https://img.shields.io/badge/Thời%20trang-FFB6C1?logo=fashion&logoColor=ffffff" />
+  </a>
+  &nbsp;
+  <a href="#" title="Vẽ và sáng tạo nghệ thuật">
+    <img width="150" align="center" src="https://img.shields.io/badge/Vẽ-7FFFD4?logo=paintbrush&logoColor=ffffff" />
+  </a>
+  &nbsp;
+  <a href="#" title="Cà phê và đồ uống yêu thích">
+    <img width="150" align="center" src="https://img.shields.io/badge/Cà%20phê-DEB887?logo=coffee&logoColor=ffffff" />
   </a>
 </div>
-
 <br>
+
 <br><br><br><br><br><br><br>
 <h2 align="center">🔔 Contact Me 🔔 </h2>
 <br>
