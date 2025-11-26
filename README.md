@@ -79,7 +79,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h2 align="center">❤️ My Favorites Quote ❤️</h2>
 <h2 align="center"> 𝑽𝒊̀ 𝒕𝒐̂̉ 𝒒𝒖𝒐̂́𝒄 𝒙𝒂̃ 𝒉𝒐̣̂𝒊 𝒄𝒉𝒖̉ 𝒏𝒈𝒉𝒊̃𝒂, 𝒗𝒊̀ 𝒍𝒚́ 𝒕𝒖̛𝒐̛̉𝒏𝒈 𝒄𝒖̉𝒂 𝑩𝒂́𝒄 𝑯𝒐̂̀ 𝒗𝒊̃ đ𝒂̣𝒊, 𝒔𝒂̆̃𝒏 𝒔𝒂̀𝒏𝒈 !</h2>
 </p>
-  <img src="(https://githubusercontent.com/hkkhanh1234-del/Intro/refs/heads/main/b3ec1d105aa4d7a2075b46521a64309a.jpg)" width="1200" alt="Vì lý tưởng vĩ đại của Bác Hồ" />
+  <img src="(https://i.pinimg.com/1200x/b3/ec/1d/b3ec1d105aa4d7a2075b46521a64309a.jpg)" width="1200" />
 </a>
 
 
