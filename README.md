@@ -79,5 +79,5 @@
 <h2 align="center">❤️ My Favorites Quote ❤️</h2>
 <h2 align="center"> 𝑽𝒊̀ 𝒕𝒐̂̉ 𝒒𝒖𝒐̂́𝒄 𝒙𝒂̃ 𝒉𝒐̣̂𝒊 𝒄𝒉𝒖̉ 𝒏𝒈𝒉𝒊̃𝒂, 𝒗𝒊̀ 𝒍𝒚́ 𝒕𝒖̛𝒐̛̉𝒏𝒈 𝒄𝒖̉𝒂 𝑩𝒂́𝒄 𝑯𝒐̂̀ 𝒗𝒊̃ đ𝒂̣𝒊, 𝒔𝒂̆̃𝒏 𝒔𝒂̀𝒏𝒈 !</h2>
 </p>
-  <img src="https://githubusercontent.com/daisubinta/Nhom4tin12anh.github.io/refs/heads/main/b3ec1d105aa4d7a2075b46521a64309a.jpg)" width="1200" alt="Vì lý tưởng vĩ đại của Bác Hồ" />
+  <img src="(https://raw.githubusercontent.com/hkkhanh1234-del/Intro/refs/heads/main/b3ec1d105aa4d7a2075b46521a64309a.jpg)" width="1200" alt="Vì lý tưởng vĩ đại của Bác Hồ" />
 </a>
