@@ -1,7 +1,6 @@
-
 <!--  -->
 <a href="#" target="_blank">
-  <img src="svg/NguyenDucQuan12.svg" width="1200" alt="Nguyễn Đức Quân" />
+  <img src="https://raw.githubusercontent.com/daisubinta/Nhom4tin12anh.github.io/main/golden-retriever-tongue-out.jpg" width="1200" alt="Huỳnh Kim Khánh" />
 </a>
 
 <h2 align="center">📘 Technologies and Tools 🖥</h2>
@@ -25,13 +24,12 @@
 &nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="NguyenDucquan12">
+  <a href="#" title="HuynhKimKhanh">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDucQuan12&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="NguyenDucQuan12">
+  <a href="#" title="HuynhKimKhanh">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=NguyenDucQuan12&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
   </a>
 </div>
@@ -40,34 +38,29 @@
 <br><br><br><br><br><br><br>
 <h2 align="center">🔔 Contact Me 🔔 </h2>
 <br>
-<!-- https://icons8.com -->
 <div align="center">
-  <a href="Việt Nam muôn năm" target="blank">
-    <img width="90" height="90" src="images/viet-nam.png" alt="NguyenDucQuan-blog" />
+  <a href="#" target="blank">
+    <img width="90" height="90" src="images/viet-nam.png" alt="HuynhKimKhanh-blog" />
   </a>
   &nbsp;
 
-  <a href="https://www.facebook.com/NguyenDucQuan02" target="blank">
-  &nbsp;
-    <img width="70" height="70" src="images/facebook.png" alt="NguyenDucQuan-facebook" />
+  <a href="https://www.facebook.com/..." target="blank">
+    <img width="70" height="70" src="images/facebook.png" alt="HuynhKimKhanh-facebook" />
   </a>
   &nbsp;
   &nbsp;
-  <a href="https://www.youtube.com/c/NguyenDucQuan" target="blank">
-    <img width="70" height="70" src="images/youtube.png" alt="NguyenDucQuan-youtube" />
+  <a href="https://www.youtube.com/c/..." target="blank">
+    <img width="70" height="70" src="images/youtube.png" alt="HuynhKimKhanh-youtube" />
   </a>
   &nbsp;
   &nbsp;
-  <!--a href="https://www.linkedin.com/in/..." target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="NguyenDucQuan-linkedin" />
-  </a-->
-  <a href="https://www.instagram.com/nguyen_duc_quan2001/" target="blank">
-    <img width="70" height="70" src="images/instagram.png" alt="NguyenDucQuan-instagram" />
+  <a href="https://www.instagram.com/..." target="blank">
+    <img width="70" height="70" src="images/instagram.png" alt="HuynhKimKhanh-instagram" />
   </a>
   &nbsp;
   &nbsp;
-  <a href="mailto:nguyenducquan2001@gmail.com" target="top">
-    <img width="70" height="70" src="images/gmail.png" alt="NguyenDucQuan-email" />
+  <a href="mailto:..." target="top">
+    <img width="70" height="70" src="images/gmail.png" alt="HuynhKimKhanh-email" />
   </a>
 </div>
 
@@ -76,27 +69,11 @@
 <h2 align="center"> 📌 𝒜𝒷𝑜𝓊𝓉 𝓂𝑒</h2>
 <br>
 <p>
-  <a href="https://www.youtube.com/c/NguyenDucQuan" target="_blank">
-    <strong>👋 Mình là Quân, hãy đăng ký kênh và ủng hộ mình thường xuyên nhé 👋</strong>
+  <a href="#" target="_blank">
+    <strong>👋 Mình là Huỳnh Kim Khánh, hãy ghé thăm và theo dõi mình nhé 👋</strong>
   </a>
 </p>
-<p><strong>☝ Mình sinh ra và lớn lên ở Hà Tĩnh, sau này được đi học ở trường Đại học Bách khoa Hà Nội, chuyên ngành điện tử viễn thông, nhưng lại có niềm đam mê lớn với công nghệ thông tin. Vì vậy mình đã tìm được một số thứ thú vị từ GitHub, có profile này chẳng hạn. Profile này mình tìm thấy từ GitHub của anh TrungQuandev, mình thấy khá thú vị nên đã clone về và chỉnh sửa lại phù hợp với bản thân. Mình xin cảm ơn anh. </strong></p>
-<p><strong>✌ Mình thực hiện đam mê này là để phục vụ bản thân nên nó không chỉ là công nghệ thông tin, mà còn bao gồm cả đời sống cá nhân, vui chơi, giải trí, vì vậy mọi người hãy có thể ghé qua các mạng xã hội của mình để bình phẩm cũng như góp ý giúp mình hoàn thiện tốt hơn. </strong></p>
+<p><strong>☝ Mình sinh ra và lớn lên ở Hà Tĩnh, hiện đang học lớp 12A, yêu thích công nghệ và lập trình, đồng thời đam mê các hoạt động vui chơi và giải trí. Đây là trang giới thiệu về bản thân và các dự án cá nhân của mình. </strong></p>
+<p><strong>✌ Mình tạo trang này để chia sẻ đam mê công nghệ, học tập và các sở thích cá nhân. Mọi người có thể ghé qua các mạng xã hội để góp ý và kết nối với mình. </strong></p>
 <p>
-  <!-- Tạo api người tham quan tại đây-->
-<p><strong>🤟 Mình có bao nhiêu vị khách ghé thăm rồi nhỉ: <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNguyenDucQuan12%2FNguyenDucQuan12"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNguyenDucQuan12%2FNguyenDucQuan12&label=Kh%C3%A1ch%20tham%20quan&labelColor=%2337d67a&countColor=%23ba68c8&style=plastic" /></a></strong></p>
-<p>
-<p><strong>📞 Các bạn có thể liên lạc với mình thông qua các đường link phía trên, xin cảm ơn đã đọc (^_<)〜☆ </strong></p>
-</p>
-<p>
-  <a href="https://youtu.be/LUKM7nshZ6Q?si=HMhz4EliOZ6O1PNz" target="_blank">
-    <strong> 🚸 Tham khảo cách thực hiện trang giới thiệu GitHub tại đây || See how to make a GitHub about page here 🚸</strong>
-  </a>
-</p>
-<br><br><br><br>
-<h2 align="center">❤️ My Favorites Quote ❤️</h2>
-<h2 align="center"> 𝑽𝒊̀ 𝒕𝒐̂̉ 𝒒𝒖𝒐̂́𝒄 𝒙𝒂̃ 𝒉𝒐̣̂𝒊 𝒄𝒉𝒖̉ 𝒏𝒈𝒉𝒊̃𝒂, 𝒗𝒊̀ 𝒍𝒚́ 𝒕𝒖̛𝒐̛̉𝒏𝒈 𝒄𝒖̉𝒂 𝑩𝒂́𝒄 𝑯𝒐̂̀ 𝒗𝒊̃ đ𝒂̣𝒊, 𝒔𝒂̆̃𝒏 𝒔𝒂̀𝒏𝒈 !</h2>
-</p>
-<a href="https://www.youtube.com/c/NguyenDucQuan" target="_blank">
-  <img src="images/VietNammuonnam.PNG" width="1200" alt="Vì lý tưởng vĩ đại của Bác Hồ" />
-</a>
+<p><strong>🤟 Đã có bao nhiêu người ghé thăm: <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNguyenDucQuan12%2FNguyenDucQuan12"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNguyenDucQuan12%2FNguyenDucQuan12&label=Kh%C3%A1ch%20tham%20quan&labelColor=%2337d67a&countColor=%23ba68c8&style=plastic" /></a></strong
