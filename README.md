@@ -5,24 +5,21 @@
 
 <h2 align="center">📘 Technologies and Tools 🖥</h2>
 <br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=C&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
+<!-- Badges con gái thích -->
+<span><img src="https://img.shields.io/badge/Mỹ%20phẩm-FF69B4?logo=beauty&logoColor=ffffff" alt="Mỹ phẩm" title="Mỹ phẩm" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Học%20tập-8A2BE2?logo=bookstack&logoColor=ffffff" alt="Học tập" title="Học tập" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Sách-F4A460?logo=book&logoColor=ffffff" alt="Sách" title="Sách" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=#009688" alt="fastapi logo" title="FastAPI" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Thời%20trang-FFB6C1?logo=fashion&logoColor=ffffff" alt="Thời trang" title="Thời trang" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/sqlserver-282C34?logo=microsoftsqlserver&logoColor=#CC2927" alt="microsoftsqlserver logo" title="microsoftsqlserver" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Vẽ-7FFFD4?logo=paintbrush&logoColor=ffffff" alt="Vẽ" title="Vẽ" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub&logoColor=#181717" alt="GitHub logo" title="GitHub" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=codeceptjs&logoColor=#F6E05E" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Virtual_Environment-282C34?logo=.env&logoColor=##ECD53F" alt="Virtual environment logo" title="Virtual Environment" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Cà%20phê-DEB887?logo=coffee&logoColor=ffffff" alt="Cà phê" title="Cà phê" height="25" /></span>
 &nbsp;
 <br>
+
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
@@ -74,5 +71,4 @@
   </a>
 </p>
 <p><strong>☝ Mình sinh ra và lớn lên ở Bến Tre, hiện đang học lớp 12A, yêu thích công nghệ và lập trình, đồng thời đam mê các hoạt động vui chơi và giải trí. Đây là trang giới thiệu về bản thân và các dự án cá nhân của mình. </strong></p>
-<p><strong>✌ Mình tạo trang này để chia sẻ đam mê công nghệ, học tập và các sở thích cá nhân. Mọi người có thể ghé qua các mạng xã hội để góp ý và kết nối với mình. </strong></p>
-src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNguyenDucQuan12%2FNguyenDucQuan12&label=Kh%C3%A1ch%20tham%20quan&labelColor=%2337d67a&countColor=%23ba68c8&style=plastic" /></a></strong
+
