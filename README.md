@@ -20,32 +20,17 @@
 &nbsp;
 <br>
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">🔥 Ưu tiên hàng đầu 🔥</h2>
+<br>
+<h2 align="center">📊 Sở thích của mình</h2>
 <br>
 <div align="center">
-  <a href="#" title="Mỹ phẩm yêu thích của mình">
-    <img width="150" align="center" src="https://img.shields.io/badge/Mỹ%20phẩm-FF69B4?logo=beauty&logoColor=ffffff" />
-  </a>
-  &nbsp;
-  <a href="#" title="Học tập và khám phá kiến thức mới">
-    <img width="150" align="center" src="https://img.shields.io/badge/Học%20tập-8A2BE2?logo=bookstack&logoColor=ffffff" />
-  </a>
-  &nbsp;
-  <a href="#" title="Đọc sách yêu thích">
-    <img width="150" align="center" src="https://img.shields.io/badge/Sách-F4A460?logo=book&logoColor=ffffff" />
-  </a>
-  &nbsp;
-  <a href="#" title="Thời trang và phong cách cá nhân">
-    <img width="150" align="center" src="https://img.shields.io/badge/Thời%20trang-FFB6C1?logo=fashion&logoColor=ffffff" />
-  </a>
-  &nbsp;
-  <a href="#" title="Vẽ và sáng tạo nghệ thuật">
-    <img width="150" align="center" src="https://img.shields.io/badge/Vẽ-7FFFD4?logo=paintbrush&logoColor=ffffff" />
-  </a>
-  &nbsp;
-  <a href="#" title="Cà phê và đồ uống yêu thích">
-    <img width="150" align="center" src="https://img.shields.io/badge/Cà%20phê-DEB887?logo=coffee&logoColor=ffffff" />
-  </a>
+  <img src="https://img.shields.io/badge/Mỹ%20phẩm-25%25-FF69B4?style=for-the-badge" title="Mỹ phẩm 25%" />
+  <img src="https://img.shields.io/badge/Học%20tập-20%25-8A2BE2?style=for-the-badge" title="Học tập 20%" />
+  <img src="https://img.shields.io/badge/Sách-15%25-F4A460?style=for-the-badge" title="Sách 15%" />
+  <img src="https://img.shields.io/badge/Thời%20trang-15%25-FFB6C1?style=for-the-badge" title="Thời trang 15%" />
+  <img src="https://img.shields.io/badge/Vẽ-15%25-7FFFD4?style=for-the-badge" title="Vẽ 15%" />
+  <img src="https://img.shields.io/badge/Cà%20phê-10%25-DEB887?style=for-the-badge" title="Cà phê 10%" />
 </div>
 <br>
 
