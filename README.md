@@ -1,4 +1,12 @@
 <!--  -->
+<p>
+  <a href="#" target="_blank">
+    <strong>👋 Mình là Huỳnh Kim Khánh, hãy ghé thăm và theo dõi mình nhé 👋</strong>
+  </a>
+</p>
+<p><strong>☝ Mình sinh ra và lớn lên ở Bến Tre, hiện đang học lớp 12A, yêu thích công nghệ và lập trình, đồng thời đam mê các hoạt động vui chơi và giải trí. Đây là trang giới thiệu về bản thân và các dự án cá nhân của mình. </strong></p>
+
+
 <a href="#" target="_blank">
   <img src="https://raw.githubusercontent.com/daisubinta/Nhom4tin12anh.github.io/main/golden-retriever-tongue-out.jpg" width="1200" alt="Huỳnh Kim Khánh" />
 </a>
@@ -18,10 +26,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Cà%20phê-DEB887?logo=coffee&logoColor=ffffff" alt="Cà phê" title="Cà phê" height="25" /></span>
 &nbsp;
-<br>
-
-<h2 align="center">🔥 Ưu tiên hàng đầu 🔥</h2>
-<br>
 <h2 align="center">📊 Sở thích của mình</h2>
 <br>
 <div align="center">
@@ -67,10 +71,3 @@
 
 <h2 align="center"> 📌 𝒜𝒷𝑜𝓊𝓉 𝓂𝑒</h2>
 <br>
-<p>
-  <a href="#" target="_blank">
-    <strong>👋 Mình là Huỳnh Kim Khánh, hãy ghé thăm và theo dõi mình nhé 👋</strong>
-  </a>
-</p>
-<p><strong>☝ Mình sinh ra và lớn lên ở Bến Tre, hiện đang học lớp 12A, yêu thích công nghệ và lập trình, đồng thời đam mê các hoạt động vui chơi và giải trí. Đây là trang giới thiệu về bản thân và các dự án cá nhân của mình. </strong></p>
-
