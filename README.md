@@ -4,16 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Giới thiệu Kim Khánh</title>
-    <style>
-        :root {
-            --primary: #003161;
-            --secondary: #006A67;
-            --bg: #FFF4B7;
-            --text: #0b0b0b;
-            --card-bg: white;
-            --radius: 12px;
-            --shadow: 0 6px 18px rgba(0,0,0,0.15);
 
 </head>
 <body>
