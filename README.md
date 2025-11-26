@@ -1,7 +1,7 @@
 <!--  -->
 <p>
   <a href="#" target="_blank">
-    <strong>👋 Mình là Huỳnh Kim Khánh, hãy ghé thăm và theo dõi mình nhé 👋</strong>
+    <strong> °°°·.°·..·°¯°·._.·   🎀 𝑀ì𝓃𝒽 𝓁à 𝐻𝓊ỳ𝓃𝒽 𝒦𝒾𝓂 𝒦𝒽á𝓃𝒽, 𝒽ã𝓎 𝑔𝒽é 𝓉𝒽ă𝓂 𝓋à 𝓉𝒽𝑒𝑜 𝒹õ𝒾 𝓂ì𝓃𝒽 𝓃𝒽é  🎀   ·._.·°¯°·..·°.·°°° </strong>
   </a>
 </p>
 <p><strong>☝ Mình sinh ra và lớn lên ở Bến Tre, hiện đang học lớp 12A, yêu thích công nghệ và lập trình, đồng thời đam mê các hoạt động vui chơi và giải trí. Đây là trang giới thiệu về bản thân và các dự án cá nhân của mình. </strong></p>
