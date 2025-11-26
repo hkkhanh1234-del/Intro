@@ -72,11 +72,6 @@
 <h2 align="center"> 📌 𝒜𝒷𝑜𝓊𝓉 𝓂𝑒</h2>
 <br>
 
-<!-- Background biển tĩnh -->
-<div style="text-align: center;">
-  <img src="https://media.githubusercontent.com/media/daisubinta/Nhom4tin12anh.github.io/refs/heads/main/golden-retriever-tongue-out.jpg" 
-       alt="Background biển" 
-</div>
 
   </a>
 </p>
@@ -84,6 +79,5 @@
 <h2 align="center">❤️ My Favorites Quote ❤️</h2>
 <h2 align="center"> 𝑽𝒊̀ 𝒕𝒐̂̉ 𝒒𝒖𝒐̂́𝒄 𝒙𝒂̃ 𝒉𝒐̣̂𝒊 𝒄𝒉𝒖̉ 𝒏𝒈𝒉𝒊̃𝒂, 𝒗𝒊̀ 𝒍𝒚́ 𝒕𝒖̛𝒐̛̉𝒏𝒈 𝒄𝒖̉𝒂 𝑩𝒂́𝒄 𝑯𝒐̂̀ 𝒗𝒊̃ đ𝒂̣𝒊, 𝒔𝒂̆̃𝒏 𝒔𝒂̀𝒏𝒈 !</h2>
 </p>
-<a href="https://www.youtube.com/c/NguyenDucQuan" target="_blank">
-  <img src="images/VietNammuonnam.PNG" width="1200" alt="Vì lý tưởng vĩ đại của Bác Hồ" />
+  <img src="https://githubusercontent.com/daisubinta/Nhom4tin12anh.github.io/refs/heads/main/b3ec1d105aa4d7a2075b46521a64309a.jpg)" width="1200" alt="Vì lý tưởng vĩ đại của Bác Hồ" />
 </a>
