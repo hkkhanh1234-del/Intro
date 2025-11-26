@@ -78,3 +78,12 @@
        alt="Background biển" 
 </div>
 
+  </a>
+</p>
+<br><br><br><br>
+<h2 align="center">❤️ My Favorites Quote ❤️</h2>
+<h2 align="center"> 𝑽𝒊̀ 𝒕𝒐̂̉ 𝒒𝒖𝒐̂́𝒄 𝒙𝒂̃ 𝒉𝒐̣̂𝒊 𝒄𝒉𝒖̉ 𝒏𝒈𝒉𝒊̃𝒂, 𝒗𝒊̀ 𝒍𝒚́ 𝒕𝒖̛𝒐̛̉𝒏𝒈 𝒄𝒖̉𝒂 𝑩𝒂́𝒄 𝑯𝒐̂̀ 𝒗𝒊̃ đ𝒂̣𝒊, 𝒔𝒂̆̃𝒏 𝒔𝒂̀𝒏𝒈 !</h2>
+</p>
+<a href="https://www.youtube.com/c/NguyenDucQuan" target="_blank">
+  <img src="images/VietNammuonnam.PNG" width="1200" alt="Vì lý tưởng vĩ đại của Bác Hồ" />
+</a>
