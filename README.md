@@ -72,8 +72,9 @@
 <h2 align="center"> 📌 𝒜𝒷𝑜𝓊𝓉 𝓂𝑒</h2>
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" 
-       alt="Biển động" 
-       style="width:100%; max-width:1200px; border-radius:15px;">
+<!-- Background biển tĩnh -->
+<div style="text-align: center;">
+  <img src="https://media.githubusercontent.com/media/daisubinta/Nhom4tin12anh.github.io/refs/heads/main/golden-retriever-tongue-out.jpg" 
+       alt="Background biển" 
 </div>
+
