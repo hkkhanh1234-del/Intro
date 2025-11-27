@@ -48,7 +48,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </a>
   &nbsp;
 
-  <a href="https://www.facebook.com/..." target="blank">
+  <a href="(https://www.facebook.com/huynh.kim.khanh.776190)/" target="blank">
     <img width="70" height="70" src="images/facebook.png" alt="HuynhKimKhanh-facebook" />
   </a>
   &nbsp;
